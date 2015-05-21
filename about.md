@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi guys!
+
+I'm a Computer Science student, doing Master's now at [AGH](http://www.agh.edu.pl/en/) in Kraków, Poland.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Soon...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can catch me anytime, look at thumbnails below :)

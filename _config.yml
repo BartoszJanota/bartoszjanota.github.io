@@ -6,7 +6,7 @@
 name: Bartosz Janota
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: programmer from the small island of Neverland
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/4175279
@@ -18,8 +18,8 @@ avatar: https://avatars1.githubusercontent.com/u/4175279
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: bartosz.janota@gmail.com
+  facebook: bartek.janota
   flickr:
   github: bartoszjanota
   instagram:
@@ -75,3 +75,5 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+categories: [general, gsoc]
