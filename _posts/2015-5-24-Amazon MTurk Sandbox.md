@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sandbox, what is Sandbox in fact?
+categories: [gsoc]
 ---
 
 ###Sandbox
