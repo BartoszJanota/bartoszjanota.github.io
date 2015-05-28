@@ -4,7 +4,6 @@ title: Sandbox, what is Sandbox in fact?
 categories: [gsoc]
 ---
 
-###Sandbox
 Have you ever heard about the *sandbox* term in a software development context? If not, this is the article exactly for you, 
 nevertheless, if you know some sandboxes, this post introduces another one, maybe a new one for you.
 
