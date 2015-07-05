@@ -183,7 +183,7 @@ It was easy, wasn't it?
 
 Now you are a full stack Scala IntelliJ IDEA Plugin developer. You are able to create amazing things now :)!
 
-You can find all the code samples on my GitHub page, just clone [https://github.com/BartoszJanota/automan-debugger](https://github.com/BartoszJanota/automan-debugger) and check it out.
+You can find all the code samples on my GitHub page, just clone [https://github.com/BartoszJanota/intellij-plugin-in-scala-example](https://github.com/BartoszJanota/intellij-plugin-in-scala-example) and check it out.
 
 Enjoy :)
  
