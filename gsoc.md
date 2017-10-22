@@ -4,7 +4,7 @@ title: Google Summer Of Code 2015
 permalink: /gsoc2015/
 ---
 
-![GSOC_LOGO](https://1-ps.googleusercontent.com/sxk/lUi00NOiZZtaYcm5-HDw_Ypz0k/s.google-melange.appspot.com/www.google-melange.com/soc/content/2-1-20150429/images/gsoc/logo/banner-gsoc2015.png.pagespeed.ce.1-XG35qq3RFCzwkXhRUG.png)
+![GSOC_LOGO](https://www.google-melange.com/archive/gsoc/2015/banner.png)
 
 <div class="posts">
   {% for post in site.posts %}
