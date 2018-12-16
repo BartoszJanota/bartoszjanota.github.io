@@ -7,7 +7,7 @@ permalink: /publications/
 I also publish sometimes. Papers listed below are discussing things like FEM, adaptive algorithms, multi-frontal solvers, etc.:
 
 * [Chapter 13. Data Processing Pipelines, Case Study: Spotify](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/ch13.html#case_study_spotify)
-*Beyer, B. and Murphy, N.R. and Rensin, D.K. and Kawahara, K. and Thorne, S. The Site Reliability Workbook: Practical Ways to Implement SRE, Chapter 13, Pages 287-299, Sebastopol, CA: O'Reilly Media, Inc., 2018.* I co-authored a section in the newest [Google's SRE books](https://landing.google.com/sre/books/) describing Event Delivery at Spotify. We discuss the architecture of the system, operations and customer integration. I have bee working on this system since July 2016.
+*Beyer, B. and Murphy, N.R. and Rensin, D.K. and Kawahara, K. and Thorne, S. The Site Reliability Workbook: Practical Ways to Implement SRE, Chapter 13, Pages 287-299, Sebastopol, CA: O'Reilly Media, Inc., 2018.* I co-authored a section describing Event Delivery at Spotify in the newest [Google's SRE book](https://landing.google.com/sre/books/). We discuss the architecture of the system, operations and customer integration. I have bee working on this system since July 2016.
 
 * [Automatic Algorithms for the Construction of Element Partition Trees for Isogeometric Finite Element Method](https://link.springer.com/chapter/10.1007/978-3-319-67792-7_28?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BMUSFh5JASNKOiUppFiv8QA%3D%3D) 
 *Gruca A., Czachórski T., Harezlak K., Kozielski S., Piotrowska A. (eds) Man-Machine Interactions 5. ICMMI 2017. Advances in Intelligent Systems and Computing, vol 659. Springer, Cham, Oct 2017*
